@@ -17,7 +17,22 @@ body {
     background-color: #1abc9c; /* Green */
     color: #ffffff;
 }
+.bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+}
+.bg-3 { 
+      background-color: #fffff; /* White */
+      color: #555555;
+}
 .aboutSection{
     padding-top: 70px;
     padding-bottom: 70px;
+}
+img{
+    object-fit: contain
+}
+.thumbnailInnerText{
+    font-size:15px;
+    text-align: center;
 }
