@@ -14,20 +14,29 @@ body {
     align:left;
 }
 .bg-1 {
-    background-color: #1abc9c; /* Green */
+    background-color: rgb(27, 163, 156); /* LIGHT SEA GREEN */    
     color: #ffffff;
 }
 .bg-2 { 
-      background-color: #474e5d; /* Dark Blue */
+      background-color: #1BBC9B; /* MOUNTAIN MEADOW */
       color: #ffffff;
 }
 .bg-3 { 
-      background-color: #fffff; /* White */
-      color: #555555;
+      background-color: #F4B350; /* CASABLANCA */
+      color: #ffffff;
+}
+.bg-4 { 
+      background-color: #E87E04; /* TAHITI GOLD */
+      color: #ffffff; 
+}
+.bg-5 { 
+      background-color: #D64541; /* VALENCIA */
+      color: #ffffff; 
 }
 .aboutSection{
     padding-top: 70px;
     padding-bottom: 70px;
+    word-wrap: break-word;
 }
 img{
     object-fit: contain
@@ -35,4 +44,7 @@ img{
 .thumbnailInnerText{
     font-size:15px;
     text-align: center;
+}
+.nav{
+   font-size:14px; 
 }
