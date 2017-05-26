@@ -10,9 +10,6 @@ body {
     height:2px;
     background-color:gray;
 }
-.aboutText{
-    align:left;
-}
 .bg-1 {
     background-color: rgb(27, 163, 156); /* LIGHT SEA GREEN */    
     color: #ffffff;
@@ -33,7 +30,7 @@ body {
       background-color: #D64541; /* VALENCIA */
       color: #ffffff; 
 }
-.aboutSection{
+.colorSection{
     padding-top: 70px;
     padding-bottom: 70px;
     word-wrap: break-word;
@@ -46,5 +43,9 @@ img{
     text-align: center;
 }
 .nav{
-   font-size:14px; 
+    font-size:14px;
+}
+.navbar{
+    margin-bottom: 0;
+    z-index:3;
 }
