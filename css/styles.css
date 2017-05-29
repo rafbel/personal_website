@@ -11,13 +11,14 @@ body {
     background-color:gray;
 }
 .bg-scenery {
+    background-color: rgb(27, 163, 156); /* LIGHT SEA GREEN */    
     background-image: url('../images/scenery.JPG');      
     color: #ffffff;
     background-size: 100% auto;
     background-repeat: no-repeat;      
     overflow: hidden;
-    padding-bottom:25%;
-    padding-top:25%;
+    padding-bottom:24%;
+    padding-top:24%;
     margin-bottom:0px;
     
 }
